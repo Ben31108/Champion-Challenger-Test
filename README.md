@@ -1,4 +1,4 @@
-# WB-Champion Challenger Test
+# Champion Challenger Test
 This program determines whether two proportions are significantly different at various levels of statistical significance. Through a GUI, the user enters two populations  and associated sample sizes. The program allows for up to three scenarios.  The program then determines if the proportion of one population is significantly different from the other.  This is useful for Champion/ Challenger testing, A/B testing.
 
 As an example, in Scenario 1 displayed in the enclosed screenshot, the proportions are significantly different at the 99% level of confidence.
